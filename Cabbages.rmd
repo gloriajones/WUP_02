@@ -68,4 +68,4 @@ The p-value is .00000003405 and the -08 will tell you how many spaces to move it
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-I first had to analyze the data and figure out the correct helper file. I uploaded the numerical cat.rmd file from my drive. Then I cut and past things from my helper file to put in my write up 2 file. I then made some changes in the data to match the problem I was working on. That is how I was able to conclude this project.     
+I first had to analyze the data and figure out the correct helper file. I uploaded the numerical cat.rmd file from my drive. Then I cut and past things from my helper file to put in my write up 2 file. I then made some changes in the data to match the problem I was working on. That is how I was able to conclude this project.  
