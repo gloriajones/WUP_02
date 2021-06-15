@@ -60,7 +60,10 @@ It appears to be more VitC in c52 with the average of 64.4 and the average of C3
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
-
+```{r}
+t.test(VitC~Cult,data=veggy)
+```
+The p-value is .00000003405 and the -08 will tell you how many spaces to move it over to the left. I will reject the null hypothesis because the p-value is a small number and the values are different.  
 
 # Discussion and Conclusion
 
